@@ -15,4 +15,3 @@ cd C:\wamp64\www\textengine\sitechats\media\apgovstuff\uploaded\git
 git add *
 git commit -a -S -m "auto commit by update utility at %time% on %date%"
 git push
-pause
