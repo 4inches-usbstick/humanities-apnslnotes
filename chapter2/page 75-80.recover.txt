@@ -1,0 +1,31 @@
+```
+Okay, so apparently air pollution is a prime example of federalism? 
+Here are the notes:
+
+With the division of powers things go really slowly, which a is a main gripe amongst people of the U.S.
+Pollution is a nationwide (really worldwide) problem that the national government needs to take care of. 
+
+HISTORY OF “NOT POLLUTION LAWS” in the U.S.
+
+FDR wanted to create and reserve public lands and enact some other land related policies. He claimed that the Exec branch was to serve the people and thus some powers could be claimed in the name of the people.
+In the 1970s, the public became much more informed about general environmental issues. The National Environmental Policy Act of 1980 requires almost all government agencies to file a “this is how we impact the environment” report every so often.
+The Clean Air Act calls for decreased contaminants and improved air quality. One of the execution methods was by requiring the DOT to somehow reduce automobile emissions.
+Clean Water Act regulates waste into water dumping.
+Endangered Species Act establishs a program that empowers certain services to protect endangered species.
+
+There have been numerous conflicts over whether the governemtn should have certain powers required to enforce such pollution policies.
+In 2012 the EPA created a limit on how much hazardous material like Mercury could be emitted by coal and gas plants. However, there was pushback as this would have cost the industry 10 billion dollars. Eventually the supreme court overturned this decision and placing a check/balance on the EPA.
+There are also the usual Congress v. Chief Executive shenanigans, such as Obama attempting to enter the Paris Agreement by making the matter one of presidents rather than president and Congress (this was quickly undone in 2017 by Trump). However, the states just enforced regulations at the state level when this happened using AM10 powers, which is another check/balance.
+
+HISTORY OF WEED LEGALIZATION
+
+A 1932 policy is passed named the US Narcotics Act which let (and pressured) states into making some controlled substances ilelgal.
+There was also a tax on weed levied by the House in 1937, and by that time most states had criminalized weed. Like the laws passed, enforcement was also handled by local and state governments. This is how legalizing weed can’t just happen all around the nation; each state has to give the OK.
+Controlled Substanced Act was passed along with Nixon’s war on drugs which just criminalied weed and other narcotics further. This was just what the public wanted at the time. [debatable]
+Some states began to decriminalize certain narcotics by reducing sentences and whatnot; as well as allowing it to be used for medical purposes. CA was the first to legalize medical weed thru a vote (prop 215) which is a prime example of ballot initiatives and direct democracy. Some states however have yet to have these initiatives pass.
+While the CSAct remains federal law, there has been dispute. Some presidents have done crackdowns but states argue that it’s under their control under AM10. In Gonzales v Raich in 2005, the Supreme court ruled that the commerce clause let Congress regulate the selling and transport of weed nationwide and thus federal law prevailed.
+
+IN ALL THESE CASES
+
+Federalism has been put to the test as, despite the framers’ best efforts, state and federal and local lines were blurred. This is why a lot of things are still under state control such as gun and drug and tax law.
+```
