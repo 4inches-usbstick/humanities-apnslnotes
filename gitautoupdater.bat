@@ -1,4 +1,5 @@
 @echo OFF
+REM py "C:\wamp64\www\textengine\sitechats\media\apgovstuff\uploaded\autoconvert.py"
 REM robocopy.exe C:\wamp64\www\textengine\sitechats\media\apgovstuff\uploaded C:\wamp64\www\textengine\sitechats\media\apgovstuff\uploaded\git /COPYALL /E
 
 net session>NUL
