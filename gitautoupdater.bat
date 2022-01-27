@@ -9,9 +9,11 @@ pause
 exit
  )
  
-"C:\wamp64\www\textengine\sitechats\media\apgovstuff\uploaded\autoconvert.py"
+
  
 :okbypass
+"C:\wamp64\www\textengine\sitechats\media\apgovstuff\uploaded\autoconvert.py"
+
 robocopy C:\wamp64\www\textengine\sitechats\media\apgovstuff\uploaded C:\wamp64\www\textengine\sitechats\media\apgovstuff\uploaded\git /COPYALL /E
 rmdir C:\wamp64\www\textengine\sitechats\media\apgovstuff\uploaded\git\git /S /Q
 cd C:\wamp64\www\textengine\sitechats\media\apgovstuff\uploaded\git
